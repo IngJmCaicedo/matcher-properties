@@ -1,0 +1,3 @@
+app:
+  property:
+    default: My App Property
